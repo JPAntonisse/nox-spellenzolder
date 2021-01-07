@@ -16,14 +16,14 @@ def main():
 class NoxCleaner:
 
     def __init__(self):
-        self.df = pd.read_csv('data/noxrating.csv', sep=';')
+        self.df = pd.read_csv('input_data/noxrating.csv', sep=';')
 
     def __score_override(self):
         """
         Override known false scores with manual checked scores.
         """
         # Manual override of known bad values
-        with open("data/score_override.json", "r", encoding="utf-8") as data_file:
+        with open("input_data/score_override.json", "r", encoding="utf-8") as data_file:
             data = json.load(data_file)
         for yid in data:
             self.df.loc[self.df['id'] == yid, 'score'] = data[yid]
