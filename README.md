@@ -30,11 +30,11 @@ title;link;id;stars;score
 |count | 1110.000000|
 |mean | 6.289189|
 |std |  1.807252|
-|min |  2.000000|
-|25% |  6.000000|
-|50% |  7.000000|
-|75% |  8.000000|
-|max | 10.000000|
+|min |  2.0|
+|25% |  6.00|
+|50% |  7.0|
+|75% |  8.0|
+|max | 10.0|
 
 ### limits
 The extraction process of the scores is limited to the caption translation of Youtube, therefore, it is prone to mistakes during scoring. The correctness of this dataset is estimated, by sampling, to be ~80%. Because of importance to the top-10, the scores with ```10``` are manually checked and corrected where necessary.  
