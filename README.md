@@ -25,7 +25,7 @@ title;link;id;stars;score
 
 ### Statistics
 
-| variable: score  | score |
+| variable: score  | dtype: float64 |
 | ------------- | ------------- |
 |count | 1110.000000|
 |mean | 6.289189|
