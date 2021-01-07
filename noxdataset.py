@@ -1,0 +1,83 @@
+import pandas as pd
+import json
+
+
+def main():
+    cleaner = NoxCleaner()
+    df = cleaner.clean()
+
+    stats = NoxStatistics(df)
+
+    stats.simple()
+    stats.overall_top(10)
+    stats.annual_top(3)
+
+
+class NoxCleaner:
+
+    def __init__(self):
+        self.df = pd.read_csv('data/noxrating.csv', sep=';')
+
+    def __score_override(self):
+        """
+        Override known false scores with manual checked scores.
+        """
+        # Manual override of known bad values
+        with open("data/score_override.json", "r", encoding="utf-8") as data_file:
+            data = json.load(data_file)
+        for yid in data:
+            self.df.loc[self.df['id'] == yid, 'score'] = data[yid]
+
+    def __save(self):
+        self.df.to_csv('dataset.csv')
+
+    def clean(self):
+        self.__score_override()
+
+        # Drop rows with any empty cells (no score)
+        self.df = self.df[self.df['score'].notna()]
+
+        # Save the cleaning process
+        self.__save()
+
+        return self.df
+
+
+class NoxStatistics:
+
+    def __init__(self, df):
+        self.df = df
+
+    def simple(self):
+        print('Score Statistics:')
+        print(self.df['score'].describe())
+
+    def overall_top(self, top=10):
+        """
+        Prints the overall top 10 of all the datapoints
+        :param top:
+        :param df:
+        """
+        self.df = self.df.sort_values(by=['score'], ascending=False)
+        print(self.df.head(n=top).to_string(index=False))
+        # print(self.df.drop(['id'], axis=1).head(n=top).to_markdown(index=False)) To print in markdown notation
+
+    def annual_top(self, top=10):
+        """
+        Gets the annual Top boardgames
+        :param top:
+        """
+        # Grouping and other functions are not saved
+        df = self.df.copy()
+        df['date'] = pd.to_datetime(df['date'], errors='coerce')
+        df_group = df.groupby(df['date'].dt.year.rename('year'))
+
+        for year in df_group.groups.keys():
+            df_year = df_group.get_group(year)
+
+            df_year = df_year.sort_values(by=['score'], ascending=False)
+            print(df_year.head(n=top).to_string(index=False))
+
+
+if __name__ == "__main__":
+    main()
