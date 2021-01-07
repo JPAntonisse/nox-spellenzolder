@@ -29,7 +29,7 @@ class NoxCleaner:
             self.df.loc[self.df['id'] == yid, 'score'] = data[yid]
 
     def __save(self):
-        self.df.to_csv('dataset.csv')
+        self.df.to_csv('results/dataset.csv')
 
     def clean(self):
         self.__score_override()
