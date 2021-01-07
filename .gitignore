@@ -22,9 +22,6 @@ src/
 *.txt
 !requirements.txt
 
-# Comma-Separated Values (CSV) Reports
-*.csv
-
 # Excluded sites list
 tests/.excluded_sites
 
