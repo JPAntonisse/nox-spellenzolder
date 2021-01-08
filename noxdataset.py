@@ -9,8 +9,8 @@ def main():
     stats = NoxStatistics(df)
 
     stats.simple()
-    stats.overall_top(10)
-    stats.annual_top(3)
+    # stats.overall_top(10)
+    # stats.annual_top(3)
 
 
 class NoxCleaner:
@@ -36,6 +36,9 @@ class NoxCleaner:
 
         # Drop rows with any empty cells (no score)
         self.df = self.df[self.df['score'].notna()]
+
+        # Sort descending on score
+        self.df = self.df.sort_values(by=['score'], ascending=False, ignore_index=True)
 
         # Save the cleaning process
         self.__save()
