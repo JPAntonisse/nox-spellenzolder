@@ -33,10 +33,10 @@
 
 
 ## Dataset
-The complete ranking of Nox' boardgames is available in the dataset ```results/dataset.csv```.
+The complete ranking of Nox' boardgames is available in the dataset ```results/dataset.csv```.  The available columns in the datasets are listed below. The only thing to note is that the columns 'stars' is a rating out of 5, that is normalized to score (out of 10). This is due to legacy videos graded with stars instead of score.
 
 ```code
-title;link;id;stars;score
+title;link;id;stars;score;date
 ```
 
 ### Statistics
