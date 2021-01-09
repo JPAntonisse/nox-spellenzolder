@@ -5,6 +5,14 @@
 </p>
 
 <p align="center">
+  <a href="#about">About</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#top-10">Top-10</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#2021">Annual Top-5</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#limits">Limits</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#installation">Installation</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#usage">Usage</a>
@@ -164,8 +172,10 @@ title;link;id;stars;score;date
 |75% |  8.0|
 |max | 10.0|
 
-### limits
+
+## limits
 The extraction process of the scores is limited to the caption translation of Youtube, therefore, it is prone to mistakes during scoring. The correctness of this dataset is estimated, by sampling, to be ~80%. Because of importance to the top-10, the scores with ```10.0``` are manually checked and corrected where necessary.  
+
 
 ## Installation
 
