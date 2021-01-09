@@ -41,7 +41,7 @@ class NoxCleaner:
         self.df['date'] = pd.to_datetime(self.df['date'], errors='coerce')
 
         # Sort descending on score
-        self.df = self.df.sort_values(by=['score'], ascending=False, ignore_index=True)
+        self.df = self.df.sort_values(by=['score', 'date'], ascending=False, ignore_index=True)
 
         # Save the cleaning process
         self.__save()
