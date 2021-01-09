@@ -17,18 +17,18 @@
 
 
 ## Top 10
-| title                                                 | link                                        |   stars |   score | date       |
-|:------------------------------------------------------|:--------------------------------------------|--------:|--------:|:-----------|
-| Star Wars Armada: Super Star Destroyer (NL)           | <a href="https://www.youtube.com/watch?v=fDiCnbDd6Tg">YouTube</a> |     nan |      10 | 02-09-2019 |
-| Codenames (NL) - Vanuit spellenwinkel "Spellenpoort"  | <a href="https://www.youtube.com/watch?v=isuTVvwDt_I">YouTube</a> |       5 |      10 | 10-12-2015 |
-| Fury of Dracula - 3rd Edition (NL)                    | <a href="https://www.youtube.com/watch?v=Bk6-AvuEdIg">YouTube</a> |       5 |      10 | 19-12-2016 |
-| Magic the Gathering (NL)                              | <a href="https://www.youtube.com/watch?v=AYu5ool4YTo">YouTube</a> |       5 |      10 | 16-10-2016 |
-| Sherlock Holmes - Consulting Detective (NL)           | <a href="https://www.youtube.com/watch?v=WIZGG7wepQQ">YouTube</a> |       5 |      10 | 25-06-2015 |
-| Legendary Encounters (NL)                             | <a href="https://www.youtube.com/watch?v=NmsICtnjEcg">YouTube</a> |       5 |      10 | 09-02-2015 |
-| Detective: A Modern Crime Board Game (NL)             | <a href="https://www.youtube.com/watch?v=WzMpmvzMxN0">YouTube</a> |     nan |       9 | 17-09-2018 |
-| Wingspan (NL)                                         | <a href="https://www.youtube.com/watch?v=0Hyi3yOnPUw">YouTube</a> |     nan |       9 | 08-04-2019 |
-| De Legenden van Andor "Deel 3" - De Laatste Hoop (NL) | <a href="https://www.youtube.com/watch?v=KYTX07UbAqY">YouTube</a> |     nan |       9 | 15-01-2018 |
-| Lords of Hellas (NL)                                  | <a href="https://www.youtube.com/watch?v=fZxtV39jmHs">YouTube</a> |     nan |       9 | 05-05-2018 
+| title                                                | link                                        |   stars | score ↓¹| date ↓²             |
+|:-----------------------------------------------------|:--------------------------------------------|--------:|--------:|:--------------------|
+| Star Wars Armada: Super Star Destroyer (NL)          | https://www.youtube.com/watch?v=fDiCnbDd6Tg |     nan |      10 | 2019-02-09 00:00:00 |
+| Fury of Dracula - 3rd Edition (NL)                   | https://www.youtube.com/watch?v=Bk6-AvuEdIg |       5 |      10 | 2016-12-19 00:00:00 |
+| Magic the Gathering (NL)                             | https://www.youtube.com/watch?v=AYu5ool4YTo |       5 |      10 | 2016-10-16 00:00:00 |
+| Codenames (NL) - Vanuit spellenwinkel "Spellenpoort" | https://www.youtube.com/watch?v=isuTVvwDt_I |       5 |      10 | 2015-10-12 00:00:00 |
+| Legendary Encounters (NL)                            | https://www.youtube.com/watch?v=NmsICtnjEcg |       5 |      10 | 2015-09-02 00:00:00 |
+| Sherlock Holmes - Consulting Detective (NL)          | https://www.youtube.com/watch?v=WIZGG7wepQQ |       5 |      10 | 2015-06-25 00:00:00 |
+| 5-Minute Mystery (NL)                                | https://www.youtube.com/watch?v=XyDy0reI9LI |     nan |       9 | 2020-09-23 00:00:00 |
+| It's a Wonderful World (NL)                          | https://www.youtube.com/watch?v=eHmLxN1dxpk |     nan |       9 | 2020-08-28 00:00:00 |
+| Detective: L.A. Crimes & Dig Deeper (NL)             | https://www.youtube.com/watch?v=Dw6IVfFFhJs |     nan |       9 | 2020-08-27 00:00:00 |
+| De Crew (NL)                                         | https://www.youtube.com/watch?v=woJbhpMOOEo |     nan |       9 | 2020-06-30 00:00:00 |
 
 
 
