@@ -76,11 +76,11 @@ You can visit the official top50 of Nox' Spellenzolders <a href="https://www.nox
 ### 2017
 | title                                             | link                                                              |   stars |   score | date                |
 |:--------------------------------------------------|:------------------------------------------------------------------|--------:|--------:|:--------------------|
-| Rode Pion - Unboxing Runewars Miniature Game (NL) | <a href="https://www.youtube.com/watch?v=iy3mfpJ0Rzk">YouTube</a> |     nan |       9 | 2017-12-04 00:00:00 |
-| Scythe (NL)                                       | <a href="https://www.youtube.com/watch?v=LIDxuqsN3nY">YouTube</a> |       4 |       8 | 2017-06-30 00:00:00 |
 | First Martians: Adventures on the Red Planet (NL) | <a href="https://www.youtube.com/watch?v=P6qqW7NHkLA">YouTube</a> |       4 |       8 | 2017-12-14 00:00:00 |
-| Inquisitio (NL)                                   | <a href="https://www.youtube.com/watch?v=gljuzXrUHGM">YouTube</a> |     nan |       8 | 2017-02-05 00:00:00 |
+| Hypnose (NL)                                      | <a href="https://www.youtube.com/watch?v=5eGSYLXkbe8">YouTube</a> |     nan |       8 | 2017-06-30 00:00:00 |
 | Claim (NL)                                        | <a href="https://www.youtube.com/watch?v=Srvul5NsVhA">YouTube</a> |       4 |       8 | 2017-02-09 00:00:00 |
+| Agra (NL)                                         | <a href="https://www.youtube.com/watch?v=cJgoCarxu2o">YouTube</a> |       4 |       8 | 2017-02-12 00:00:00 |
+| Castles of Mad King Ludwig (NL)                   | <a href="https://www.youtube.com/watch?v=KJRHUVMsAl0">YouTube</a> |       4 |       8 | 2017-02-14 00:00:00 |
 
 
 ### 2016
@@ -88,9 +88,9 @@ You can visit the official top50 of Nox' Spellenzolders <a href="https://www.nox
 |:-----------------------------------|:------------------------------------------------------------------|--------:|--------:|:--------------------|
 | Fury of Dracula - 3rd Edition (NL) | <a href="https://www.youtube.com/watch?v=Bk6-AvuEdIg">YouTube</a> |       5 |      10 | 2016-12-19 00:00:00 |
 | Magic the Gathering (NL)           | <a href="https://www.youtube.com/watch?v=AYu5ool4YTo">YouTube</a> |       5 |      10 | 2016-10-16 00:00:00 |
-| Tides of Madness (NL)              | <a href="https://www.youtube.com/watch?v=URBYktcPfxU">YouTube</a> |       4 |       8 | 2016-12-15 00:00:00 |
-| 40 Jaar Ducosim - Arno Quispel     | <a href="https://www.youtube.com/watch?v=-hB2BMmTA-s">YouTube</a> |     nan |       8 | 2016-05-27 00:00:00 |
-| Raiders of the North Sea (NL)      | <a href="https://www.youtube.com/watch?v=43o--1KkCrA">YouTube</a> |       4 |       8 | 2016-12-04 00:00:00 |
+| Mombasa (NL)                       | <a href="https://www.youtube.com/watch?v=dpTityr93Ts">YouTube</a> |       4 |       8 | 2016-03-05 00:00:00 |
+| Star Wars Armada (NL)              | <a href="https://www.youtube.com/watch?v=0XIoxNVW0GM">YouTube</a> |       4 |       8 | 2016-03-06 00:00:00 |
+| X-Wing Miniatures Game (NL)        | <a href="https://www.youtube.com/watch?v=Cc7alMNhAGI">YouTube</a> |     nan |       8 | 2016-03-22 00:00:00 |
 
 
 ### 2015
@@ -99,8 +99,8 @@ You can visit the official top50 of Nox' Spellenzolders <a href="https://www.nox
 | Codenames (NL) - Vanuit spellenwinkel "Spellenpoort" | <a href="https://www.youtube.com/watch?v=isuTVvwDt_I">YouTube</a> |       5 |      10 | 2015-10-12 00:00:00 |
 | Sherlock Holmes - Consulting Detective (NL)          | <a href="https://www.youtube.com/watch?v=WIZGG7wepQQ">YouTube</a> |       5 |      10 | 2015-06-25 00:00:00 |
 | Legendary Encounters (NL)                            | <a href="https://www.youtube.com/watch?v=NmsICtnjEcg">YouTube</a> |       5 |      10 | 2015-09-02 00:00:00 |
-| Moral Conflict 1941 - Snelle Blik (NL)               | <a href="https://www.youtube.com/watch?v=06O0BD4dy40">YouTube</a> |     nan |       9 | 2015-03-19 00:00:00 |
 | De Kolonisten van Catan "Kooplieden & Barbaren" (NL) | <a href="https://www.youtube.com/watch?v=4J9aDs0lTgY">YouTube</a> |       4 |       8 | 2015-05-13 00:00:00 |
+| Brieven uit Whitechapel (NL)                         | <a href="https://www.youtube.com/watch?v=EtGS2nkRbGo">YouTube</a> |       4 |       8 | 2015-07-15 00:00:00 |
 
 
 ### 2014
@@ -117,8 +117,8 @@ You can visit the official top50 of Nox' Spellenzolders <a href="https://www.nox
 | title                                                             | link                                                              |   stars |   score | date                |
 |:------------------------------------------------------------------|:------------------------------------------------------------------|--------:|--------:|:--------------------|
 | Robinson Crusoe: Adventure on the Cursed Island (NL) - Deel 2 / 2 | <a href="https://www.youtube.com/watch?v=qYr1Vv9t5lk">YouTube</a> |     nan |       8 | 2013-11-20 00:00:00 |
-| Mage Knight (NL) - Deel 2 / 2                                     | <a href="https://www.youtube.com/watch?v=W9nkEa-vnvI">YouTube</a> |     nan |       8 | 2013-04-14 00:00:00 |
-| Battleship Galaxies: The Saturn Offensive (NL)                    | <a href="https://www.youtube.com/watch?v=TLj9vB-aiaE">YouTube</a> |     nan |       8 | 2013-11-07 00:00:00 |
+| Sid Meier's  Civilization (NL) - Deel 2 / 2                       | <a href="https://www.youtube.com/watch?v=jkktvumIzG8">YouTube</a> |     nan |       8 | 2013-04-10 00:00:00 |
+| Gosu - Kamakor (NL)                                               | <a href="https://www.youtube.com/watch?v=rVKKkkWErgE">YouTube</a> |     nan |       8 | 2013-01-07 00:00:00 |
 | Takenoko (NL)                                                     | <a href="https://www.youtube.com/watch?v=h0bDxCbR9Pw">YouTube</a> |     nan |       8 | 2013-01-15 00:00:00 |
 | Quest for the Princess (NL)                                       | <a href="https://www.youtube.com/watch?v=uFx2ptkFNIo">YouTube</a> |     nan |       8 | 2013-04-02 00:00:00 |
 
@@ -141,6 +141,7 @@ You can visit the official top50 of Nox' Spellenzolders <a href="https://www.nox
 | Naval Battles (NL)                | <a href="https://www.youtube.com/watch?v=z2rA6rruvU8">YouTube</a> |     nan |       8 | 2011-09-26 00:00:00 |
 | Zeevaarders van Catan (NL)        | <a href="https://www.youtube.com/watch?v=4fn3ELILriU">YouTube</a> |     nan |       8 | 2011-07-29 00:00:00 |
 | De Grote Dalmuti (NL)             | <a href="https://www.youtube.com/watch?v=-m98XKwL6pA">YouTube</a> |     nan |       6 | 2011-10-17 00:00:00 |
+
 
 
 ## Dataset
