@@ -36,8 +36,8 @@ You can visit the official top50 of Nox' Spellenzolders <a href="https://www.nox
 ### 2021
 | title                                          | link                                                              |   stars |   score | date                |
 |:-----------------------------------------------|:------------------------------------------------------------------|--------:|--------:|:--------------------|
-| Wingspan: Uitbreiding Oceanië (NL)             | <a href="https://www.youtube.com/watch?v=KxRBgGKbyS0">YouTube</a> |     nan |       8 | 2021-04-01 00:00:00 |
 | Through the Ages: New Leaders and Wonders (NL) | <a href="https://www.youtube.com/watch?v=8YhakXU9l8o">YouTube</a> |     nan |       8 | 2021-04-01 00:00:00 |
+| Wingspan: Uitbreiding Oceanië (NL)             | <a href="https://www.youtube.com/watch?v=KxRBgGKbyS0">YouTube</a> |     nan |       8 | 2021-04-01 00:00:00 |
 | Via Magica (NL)                                | <a href="https://www.youtube.com/watch?v=XesQX0asSDU">YouTube</a> |     nan |       7 | 2021-06-01 00:00:00 |
 | Paranormale Detectives (NL)                    | <a href="https://www.youtube.com/watch?v=CGYtEsAuaVA">YouTube</a> |     nan |       7 | 2021-06-01 00:00:00 |
 | Ethnos (NL)                                    | <a href="https://www.youtube.com/watch?v=kyVY_ugJkz8">YouTube</a> |     nan |       7 | 2021-04-01 00:00:00 |
@@ -77,10 +77,10 @@ You can visit the official top50 of Nox' Spellenzolders <a href="https://www.nox
 | title                                             | link                                                              |   stars |   score | date                |
 |:--------------------------------------------------|:------------------------------------------------------------------|--------:|--------:|:--------------------|
 | First Martians: Adventures on the Red Planet (NL) | <a href="https://www.youtube.com/watch?v=P6qqW7NHkLA">YouTube</a> |       4 |       8 | 2017-12-14 00:00:00 |
-| Hypnose (NL)                                      | <a href="https://www.youtube.com/watch?v=5eGSYLXkbe8">YouTube</a> |     nan |       8 | 2017-06-30 00:00:00 |
+| Scythe (NL)                                       | <a href="https://www.youtube.com/watch?v=LIDxuqsN3nY">YouTube</a> |       4 |       8 | 2017-06-30 00:00:00 |
+| Dead of Winter - The Long Night (NL)              | <a href="https://www.youtube.com/watch?v=yzgRm_RhIMM">YouTube</a> |       4 |       8 | 2017-01-30 00:00:00 |
 | Claim (NL)                                        | <a href="https://www.youtube.com/watch?v=Srvul5NsVhA">YouTube</a> |       4 |       8 | 2017-02-09 00:00:00 |
 | Agra (NL)                                         | <a href="https://www.youtube.com/watch?v=cJgoCarxu2o">YouTube</a> |       4 |       8 | 2017-02-12 00:00:00 |
-| Castles of Mad King Ludwig (NL)                   | <a href="https://www.youtube.com/watch?v=KJRHUVMsAl0">YouTube</a> |       4 |       8 | 2017-02-14 00:00:00 |
 
 
 ### 2016
@@ -107,7 +107,7 @@ You can visit the official top50 of Nox' Spellenzolders <a href="https://www.nox
 | title                                  | link                                                              |   stars |   score | date                |
 |:---------------------------------------|:------------------------------------------------------------------|--------:|--------:|:--------------------|
 | Machi Koro (NL)                        | <a href="https://www.youtube.com/watch?v=y4EuI0tO-io">YouTube</a> |       4 |       8 | 2014-11-16 00:00:00 |
-| Dungeon Command (NL)                   | <a href="https://www.youtube.com/watch?v=Tl18h9nkLXw">YouTube</a> |     nan |       8 | 2014-04-15 00:00:00 |
+| Rampage (NL)                           | <a href="https://www.youtube.com/watch?v=fhdEngFmH0U">YouTube</a> |     nan |       8 | 2014-04-15 00:00:00 |
 | Atlantic Triangle (NL)                 | <a href="https://www.youtube.com/watch?v=Jg334LmGmTQ">YouTube</a> |     nan |       8 | 2014-07-29 00:00:00 |
 | Splendor (NL) - Samen met de Rode Pion | <a href="https://www.youtube.com/watch?v=S60bcUn--gM">YouTube</a> |     nan |       8 | 2014-02-06 00:00:00 |
 | Through the Ages (NL)                  | <a href="https://www.youtube.com/watch?v=J79dGMSjCeg">YouTube</a> |     nan |       8 | 2014-02-07 00:00:00 |

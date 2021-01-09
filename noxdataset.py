@@ -53,7 +53,7 @@ class NoxStatistics:
 
     def __init__(self, df):
         self.df = df
-        self.markdown_mode = False
+        self.markdown_mode = True
 
     def simple(self):
         print('Score Statistics:')
