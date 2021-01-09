@@ -12,7 +12,7 @@
 
 ## About
 
-<a href="https://www.youtube.com/channel/UCtzMObnv92ni0T_8CHGtDag" target="_BLANK">Nox' Spellenzolder</a> is a Dutch Youtuber giving reviews of boardgames and scoring them. With the help of <a href="https://github.com/JPAntonisse/nox-spellenzolder-rating">JPAntonisse/nox-spellenzolder-rating</a> a complete list of scoring is achieved.
+<a href="https://www.youtube.com/channel/UCtzMObnv92ni0T_8CHGtDag" target="_BLANK">Nox' Spellenzolder</a> is a Dutch Youtuber giving reviews of boardgames and scoring them. With the help of <a href="https://github.com/JPAntonisse/nox-spellenzolder-rating">JPAntonisse/nox-spellenzolder-rating</a> a list of boardgames with Nox' score is now available under ```results/dataset.csv```.
 
 
 
@@ -33,7 +33,7 @@
 
 
 ## Dataset
-The complete ranking of Nox' boardgames is available in the dataset ```dataset.csv```. 
+The complete ranking of Nox' boardgames is available in the dataset ```results/dataset.csv```.
 
 ```code
 title;link;id;stars;score
