@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="./images/header.jpg"/> <br />
+<img src="./images/header.jpg" height="200"/> <br />
 <span>Nox'Spellenzolder Boardgames Scoring dataset.</span>
 </p>
 
