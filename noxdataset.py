@@ -9,8 +9,8 @@ def main():
     stats = NoxStatistics(df)
 
     stats.simple()
-    # stats.overall_top(10)
-    # stats.annual_top(3)
+    stats.overall_top(10)
+    stats.annual_top(5)
 
 
 class NoxCleaner:
@@ -37,6 +37,9 @@ class NoxCleaner:
         # Drop rows with any empty cells (no score)
         self.df = self.df[self.df['score'].notna()]
 
+        # Parse Dates to readable format for pandas
+        self.df['date'] = pd.to_datetime(self.df['date'], errors='coerce')
+
         # Sort descending on score
         self.df = self.df.sort_values(by=['score'], ascending=False, ignore_index=True)
 
@@ -50,6 +53,7 @@ class NoxStatistics:
 
     def __init__(self, df):
         self.df = df
+        self.markdown_mode = False
 
     def simple(self):
         print('Score Statistics:')
@@ -61,9 +65,10 @@ class NoxStatistics:
         :param top:
         :param df:
         """
-        self.df = self.df.sort_values(by=['score'], ascending=False)
-        print(self.df.head(n=top).to_string(index=False))
-        # print(self.df.drop(['id'], axis=1).head(n=top).to_markdown(index=False)) To print in markdown notation
+        self.df = self.df.sort_values(by=['score', 'date'], ascending=False)
+        # print(self.df.head(n=top).to_string(index=False))
+        # To print in markdown notation
+        print(self.df.drop(['id'], axis=1).head(n=top).to_markdown(index=False))
 
     def annual_top(self, top=10):
         """
@@ -75,11 +80,18 @@ class NoxStatistics:
         df['date'] = pd.to_datetime(df['date'], errors='coerce')
         df_group = df.groupby(df['date'].dt.year.rename('year'))
 
-        for year in df_group.groups.keys():
+        for year in reversed(sorted(df_group.groups.keys())):
             df_year = df_group.get_group(year)
-
             df_year = df_year.sort_values(by=['score'], ascending=False)
-            print(df_year.head(n=top).to_string(index=False))
+
+            if self.markdown_mode:
+                df_year['link'] = '<a href="' + df_year['link'] + '">YouTube</a>'
+                print('### ' + str(year))
+                print(df_year.drop(['id'], axis=1).head(n=top).to_markdown(index=False))
+                print()
+                print()
+            else:
+                print(df_year.head(n=top).to_string(index=False))
 
 
 if __name__ == "__main__":
