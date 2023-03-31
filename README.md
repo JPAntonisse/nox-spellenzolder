@@ -26,29 +26,49 @@ You can visit the official top50 of Nox' Spellenzolders <a href="https://www.nox
 
 
 ## Top-10
-| title                                                | link                                        |  stars  |score ↓¹ | date ↓²             |
+| title                                                | link                                        |   stars |   score | date                |
 |:-----------------------------------------------------|:--------------------------------------------|--------:|--------:|:--------------------|
-| Star Wars Armada: Super Star Destroyer (NL)          | <a href="https://www.youtube.com/watch?v=fDiCnbDd6Tg">YouTube</a> |     nan |      10 | 2019-02-09 00:00:00 |
-| Fury of Dracula - 3rd Edition (NL)                   | <a href="https://www.youtube.com/watch?v=Bk6-AvuEdIg">YouTube</a> |       5 |      10 | 2016-12-19 00:00:00 |
-| Magic the Gathering (NL)                             | <a href="https://www.youtube.com/watch?v=AYu5ool4YTo">YouTube</a> |       5 |      10 | 2016-10-16 00:00:00 |
-| Codenames (NL) - Vanuit spellenwinkel "Spellenpoort" | <a href="https://www.youtube.com/watch?v=isuTVvwDt_I">YouTube</a> |       5 |      10 | 2015-10-12 00:00:00 |
-| Legendary Encounters (NL)                            | <a href="https://www.youtube.com/watch?v=NmsICtnjEcg">YouTube</a> |       5 |      10 | 2015-09-02 00:00:00 |
-| Sherlock Holmes - Consulting Detective (NL)          | <a href="https://www.youtube.com/watch?v=WIZGG7wepQQ">YouTube</a> |       5 |      10 | 2015-06-25 00:00:00 |
-| 5-Minute Mystery (NL)                                | <a href="https://www.youtube.com/watch?v=XyDy0reI9LI">YouTube</a> |     nan |       9 | 2020-09-23 00:00:00 |
-| It's a Wonderful World (NL)                          | <a href="https://www.youtube.com/watch?v=eHmLxN1dxpk">YouTube</a> |     nan |       9 | 2020-08-28 00:00:00 |
-| Detective: L.A. Crimes & Dig Deeper (NL)             | <a href="https://www.youtube.com/watch?v=Dw6IVfFFhJs">YouTube</a> |     nan |       9 | 2020-08-27 00:00:00 |
-| De Crew (NL)                                         | <a href="https://www.youtube.com/watch?v=woJbhpMOOEo">YouTube</a> |     nan |       9 | 2020-06-30 00:00:00 |
+| Oathsworn: Into the Deepwood (NL)                    | https://www.youtube.com/watch?v=UxF7sqCiOhY |     nan |      10 | 2022-02-11 00:00:00 |
+| Star Wars Armada: Super Star Destroyer (NL)          | https://www.youtube.com/watch?v=fDiCnbDd6Tg |     nan |      10 | 2019-02-09 00:00:00 |
+| Fury of Dracula - 3rd Edition (NL)                   | https://www.youtube.com/watch?v=Bk6-AvuEdIg |       5 |      10 | 2016-12-19 00:00:00 |
+| Magic the Gathering (NL)                             | https://www.youtube.com/watch?v=AYu5ool4YTo |       5 |      10 | 2016-10-16 00:00:00 |
+| Codenames (NL) - Vanuit spellenwinkel "Spellenpoort" | https://www.youtube.com/watch?v=isuTVvwDt_I |       5 |      10 | 2015-10-12 00:00:00 |
+| Legendary Encounters: Alie (NL)                      | https://www.youtube.com/watch?v=NmsICtnjEcg |       5 |      10 | 2015-09-02 00:00:00 |
+| Sherlock Holmes - Consulting Detective (NL)          | https://www.youtube.com/watch?v=WIZGG7wepQQ |       5 |      10 | 2015-06-25 00:00:00 |
+| Mystery Express (NL)                                 | https://www.youtube.com/watch?v=Ua0RMFu-dKQ |     nan |      10 | 2014-12-29 00:00:00 |
+| Star Wars: The Deckbuilding Game (NL)                | https://www.youtube.com/watch?v=u7SWZ_sqrN4 |     nan |       9 | 2023-11-03 00:00:00 |
+| Doodle Dash (NL)                                     | https://www.youtube.com/watch?v=Uw8yd3UIrVE |     nan |       9 | 2023-03-29 00:00:00 |
 
 
 ## Annual Top-5
+### 2023
+| title                                                 | link                                                              |   stars |   score | date                |
+|:------------------------------------------------------|:------------------------------------------------------------------|--------:|--------:|:--------------------|
+| Star Wars: The Deckbuilding Game (NL)                 | <a href="https://www.youtube.com/watch?v=u7SWZ_sqrN4">YouTube</a> |     nan |       9 | 2023-11-03 00:00:00 |
+| Clank! Catacombs (NL)                                 | <a href="https://www.youtube.com/watch?v=BDixzoKFmgY">YouTube</a> |     nan |       9 | 2023-02-18 00:00:00 |
+| Doodle Dash (NL)                                      | <a href="https://www.youtube.com/watch?v=Uw8yd3UIrVE">YouTube</a> |     nan |       9 | 2023-03-29 00:00:00 |
+| Disney Sorcerer's Arena: Epic Alliances Core Set )NL) | <a href="https://www.youtube.com/watch?v=0lvu1SuGPO4">YouTube</a> |     nan |       8 | 2023-02-22 00:00:00 |
+| Mille Fiori (NL)                                      | <a href="https://www.youtube.com/watch?v=Z5x0OCAE6JU">YouTube</a> |     nan |       8 | 2023-01-01 00:00:00 |
+
+
+### 2022
+| title                                    | link                                                              |   stars |   score | date                |
+|:-----------------------------------------|:------------------------------------------------------------------|--------:|--------:|:--------------------|
+| Oathsworn: Into the Deepwood (NL)        | <a href="https://www.youtube.com/watch?v=UxF7sqCiOhY">YouTube</a> |     nan |      10 | 2022-02-11 00:00:00 |
+| Air, Land, and Sea: Critters at War (NL) | <a href="https://www.youtube.com/watch?v=-cKIBDOGsBc">YouTube</a> |     nan |       9 | 2022-04-27 00:00:00 |
+| Caesar! - Seize Rome in 20 Minutes! (NL) | <a href="https://www.youtube.com/watch?v=nW5nTQxznQI">YouTube</a> |     nan |       9 | 2022-12-21 00:00:00 |
+| Vienna Connection (NL)                   | <a href="https://www.youtube.com/watch?v=trxwb2Ny0Uo">YouTube</a> |     nan |       9 | 2022-01-23 00:00:00 |
+| Euthia: Torment of Resurrection (NL)     | <a href="https://www.youtube.com/watch?v=etH0SXAbP0M">YouTube</a> |     nan |       9 | 2022-02-13 00:00:00 |
+
+
 ### 2021
-| title                                          | link                                                              |   stars |   score | date                |
-|:-----------------------------------------------|:------------------------------------------------------------------|--------:|--------:|:--------------------|
-| Through the Ages: New Leaders and Wonders (NL) | <a href="https://www.youtube.com/watch?v=8YhakXU9l8o">YouTube</a> |     nan |       8 | 2021-04-01 00:00:00 |
-| Wingspan: Uitbreiding Oceanië (NL)             | <a href="https://www.youtube.com/watch?v=KxRBgGKbyS0">YouTube</a> |     nan |       8 | 2021-04-01 00:00:00 |
-| Via Magica (NL)                                | <a href="https://www.youtube.com/watch?v=XesQX0asSDU">YouTube</a> |     nan |       7 | 2021-06-01 00:00:00 |
-| Paranormale Detectives (NL)                    | <a href="https://www.youtube.com/watch?v=CGYtEsAuaVA">YouTube</a> |     nan |       7 | 2021-06-01 00:00:00 |
-| Ethnos (NL)                                    | <a href="https://www.youtube.com/watch?v=kyVY_ugJkz8">YouTube</a> |     nan |       7 | 2021-04-01 00:00:00 |
+| title                          | link                                                              |   stars |   score | date                |
+|:-------------------------------|:------------------------------------------------------------------|--------:|--------:|:--------------------|
+| Destinies (NL)                 | <a href="https://www.youtube.com/watch?v=l4Qc54gQp_4">YouTube</a> |     nan |       9 | 2021-12-26 00:00:00 |
+| Forbidden Stars (NL)           | <a href="https://www.youtube.com/watch?v=7fpXVMFQZHM">YouTube</a> |     nan |       9 | 2021-10-11 00:00:00 |
+| Anachrony (NL)                 | <a href="https://www.youtube.com/watch?v=wWjA9Fa_heI">YouTube</a> |     nan |       9 | 2021-06-23 00:00:00 |
+| Oriflamme: Oproer (NL)         | <a href="https://www.youtube.com/watch?v=gyzT4bmMChc">YouTube</a> |     nan |       9 | 2021-05-12 00:00:00 |
+| Detective: City of Angels (NL) | <a href="https://www.youtube.com/watch?v=_yjdX9Bqnnc">YouTube</a> |     nan |       9 | 2021-04-21 00:00:00 |
 
 
 ### 2020
@@ -184,13 +204,13 @@ The extraction process of the scores is limited to the caption translation of Yo
 $ git clone https://github.com/JPAntonisse/nox-spellenzolder-rating.git
 
 # install the requirements
-$ python3 -m pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 
 ## Usage
 
 ```console
-$ python3 noxdataset
+$ python noxdataset.py
 ```
 
